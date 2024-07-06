@@ -5,10 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-ailg/alist:hostmode
-ailg/ggbond:latest
-emby/embyserver:4.8.0.56
-amilys/embyserver:4.8.0.56
-nyanmisaka/jellyfin:240220-amd64-legacy
-ailg/alist:latest
-nyanmisaka/jellyfin:latest
+ddsderek/xiaoya-emd
