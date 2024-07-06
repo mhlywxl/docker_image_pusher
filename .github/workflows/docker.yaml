@@ -143,7 +143,6 @@ jobs:
             docker tag $image $new_image
             echo "docker push $new_image"
             docker push $new_image
-            docker push $yulln_image
             echo "开始清理磁盘空间"
             echo "=============================================================================="
             df -hT
