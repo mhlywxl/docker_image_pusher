@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-zerotier/zerotier-synology:latest
+jeessy/ddns-go:latest
